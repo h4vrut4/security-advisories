@@ -4,10 +4,10 @@ Public security advisories for vulnerabilities I have discovered and responsibly
 
 ## Advisories
 
-| CVE                                   | Project    | Vulnerability                | Affected Versions | Advisory                                                                                     |
-| ------------------------------------- | ---------- | ---------------------------- | ----------------- | -------------------------------------------------------------------------------------------- |
-| [CVE-2026-51956](./CVE-2026-51956.md) | Atlas CMMS | Cross-Tenant BOLA            | <= 1.5.0          | [Researcher Advisory](./CVE-2026-51956.md)                                                   |
-| [CVE-2026-39354](./CVE-2026-39354.md) | Scoold     | Arbitrary Question Overwrite | 1.66.1            | [Vendor Advisory](https://github.com/Erudika/scoold/security/advisories/GHSA-768r-cv9p-wrcm) |
+| CVE                                   | Project    | Vulnerability                | Fixed Version | Advisory                                                                                     |
+| ------------------------------------- | ---------- | ---------------------------- | ------------- | -------------------------------------------------------------------------------------------- |
+| [CVE-2026-51956](./CVE-2026-51956.md) | Atlas CMMS | Cross-Tenant BOLA            | 1.6.0         | [Researcher Advisory](./CVE-2026-51956.md)                                                   |
+| [CVE-2026-39354](./CVE-2026-39354.md) | Scoold     | Arbitrary Question Overwrite | 1.66.2        | [Vendor Advisory](https://github.com/Erudika/scoold/security/advisories/GHSA-768r-cv9p-wrcm) |
 
 ## Disclosure
 
